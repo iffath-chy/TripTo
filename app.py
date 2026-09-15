@@ -10,7 +10,7 @@ from typing import TypedDict
 from langchain_google_genai import ChatGoogleGenerativeAI
 
 
-API_KEY = "AQ.Ab8RN6LYpkYc5iO0-Bn9Mu_8-748rL3DNWnTAul-993FAu6w-g"
+API_KEY = "YOUR_API_KEY_HERE"
 
 
 
